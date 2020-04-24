@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>Create Next App <h1>T-Mobile</h1></title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
