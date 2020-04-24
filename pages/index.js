@@ -4,15 +4,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App <h1>T-Mobile</h1></title>
+        <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">Next.js! </a>
         </h1>
-
+        <h1>T-Mobile</h1>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
